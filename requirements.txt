@@ -1,4 +1,4 @@
-pandas
+zpandas
 numpy
 scikit-learn
 seaborn
